@@ -1,0 +1,7 @@
+D:\android\BroadcastBestPractice\build\intermediates\transforms\instantRun\debug\folders\1\1\main\com\example\broadcastbestpractice\activity\MainActivity.class
+D:\android\BroadcastBestPractice\build\intermediates\transforms\instantRun\debug\folders\1\1\main\com\example\broadcastbestpractice\activity\LoginActivity$1.class
+D:\android\BroadcastBestPractice\build\intermediates\transforms\instantRun\debug\folders\1\1\main\com\example\broadcastbestpractice\ForceOfflineReceiver.class
+D:\android\BroadcastBestPractice\build\intermediates\transforms\instantRun\debug\folders\1\1\main\com\example\broadcastbestpractice\activity\LoginActivity.class
+D:\android\BroadcastBestPractice\build\intermediates\transforms\instantRun\debug\folders\1\1\main\com\example\broadcastbestpractice\ForceOfflineReceiver$1.class
+D:\android\BroadcastBestPractice\build\intermediates\transforms\instantRun\debug\folders\1\1\main\com\example\broadcastbestpractice\activity\MainActivity$1.class
+D:\android\BroadcastBestPractice\build\intermediates\transforms\instantRun\debug\folders\1\1\main\com\example\broadcastbestpractice\activity\BaseActivity.class

@@ -1,0 +1,65 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\android\BroadcastBestPractice\AndroidManifest.xml:2:1-37:12
+	xmlns:android
+		ADDED from D:\android\BroadcastBestPractice\AndroidManifest.xml:2:11-69
+	package
+		ADDED from D:\android\BroadcastBestPractice\AndroidManifest.xml:3:5-48
+	android:versionName
+		ADDED from D:\android\BroadcastBestPractice\AndroidManifest.xml:5:5-30
+		INJECTED from D:\android\BroadcastBestPractice\AndroidManifest.xml
+		INJECTED from D:\android\BroadcastBestPractice\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\android\BroadcastBestPractice\AndroidManifest.xml:4:5-28
+		INJECTED from D:\android\BroadcastBestPractice\AndroidManifest.xml
+		INJECTED from D:\android\BroadcastBestPractice\AndroidManifest.xml
+uses-sdk
+ADDED from D:\android\BroadcastBestPractice\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from D:\android\BroadcastBestPractice\AndroidManifest.xml:9:9-38
+	android:minSdkVersion
+		ADDED from D:\android\BroadcastBestPractice\AndroidManifest.xml:8:9-35
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from D:\android\BroadcastBestPractice\AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from D:\android\BroadcastBestPractice\AndroidManifest.xml:11:22-75
+application
+ADDED from D:\android\BroadcastBestPractice\AndroidManifest.xml:13:5-35:19
+	android:label
+		ADDED from D:\android\BroadcastBestPractice\AndroidManifest.xml:16:9-41
+	android:allowBackup
+		ADDED from D:\android\BroadcastBestPractice\AndroidManifest.xml:14:9-35
+	android:icon
+		ADDED from D:\android\BroadcastBestPractice\AndroidManifest.xml:15:9-45
+	android:theme
+		ADDED from D:\android\BroadcastBestPractice\AndroidManifest.xml:17:9-40
+activity#com.example.broadcastbestpractice.activity.LoginActivity
+ADDED from D:\android\BroadcastBestPractice\AndroidManifest.xml:18:9-26:20
+	android:label
+		ADDED from D:\android\BroadcastBestPractice\AndroidManifest.xml:20:13-45
+	android:name
+		ADDED from D:\android\BroadcastBestPractice\AndroidManifest.xml:19:13-51
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\android\BroadcastBestPractice\AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from D:\android\BroadcastBestPractice\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from D:\android\BroadcastBestPractice\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\android\BroadcastBestPractice\AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from D:\android\BroadcastBestPractice\AndroidManifest.xml:24:27-74
+activity#com.example.broadcastbestpractice.activity.MainActivity
+ADDED from D:\android\BroadcastBestPractice\AndroidManifest.xml:27:9-28:20
+	android:name
+		ADDED from D:\android\BroadcastBestPractice\AndroidManifest.xml:27:19-56
+receiver#com.example.broadcastbestpractice.ForceOfflineReceiver
+ADDED from D:\android\BroadcastBestPractice\AndroidManifest.xml:30:9-34:20
+	android:name
+		ADDED from D:\android\BroadcastBestPractice\AndroidManifest.xml:30:19-55
+intent-filter#com.example.broadcastbestpractice.FORCE_OFFLINE
+ADDED from D:\android\BroadcastBestPractice\AndroidManifest.xml:31:13-33:29
+action#com.example.broadcastbestpractice.FORCE_OFFLINE
+ADDED from D:\android\BroadcastBestPractice\AndroidManifest.xml:32:17-90
+	android:name
+		ADDED from D:\android\BroadcastBestPractice\AndroidManifest.xml:32:25-87

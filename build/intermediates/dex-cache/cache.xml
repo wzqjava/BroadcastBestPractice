@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\android\BroadcastBestPractice\build\intermediates\incremental-classes\debug\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="68f68d3047a0d945b875d433413aeb99d2d91903">
+        <dex dex="D:\android\BroadcastBestPractice\build\intermediates\pre-dexed\debug\classes_29b2472dba3990ff6dd759d0ec955d8d7c352711.jar" />
+    </item>
+    <item
+        jar="D:\android\workspace\QiMing_cankao1\BroadcastBestPractice\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="bd6479f5dd592790607e0504e66e0f31c2b4d308">
+        <dex dex="D:\android\workspace\QiMing_cankao1\BroadcastBestPractice\build\intermediates\pre-dexed\debug\android-support-v4_d9cf26b576d15c3b0620d23f5bd2134b76100b73.jar" />
+    </item>
+    <item
+        jar="D:\android\BroadcastBestPractice\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b7d55377e59607c7526cd0bc7bf62c9aa69dc552">
+        <dex dex="D:\android\BroadcastBestPractice\build\intermediates\pre-dexed\debug\instant-run_7c0672501dcd87468e4cec041df906d8fc19895d.jar" />
+    </item>
+    <item
+        jar="D:\android\workspace\QiMing_cankao1\BroadcastBestPractice\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fb4161f6171dfc3645571b2afca4a0b25fecf6a6">
+        <dex dex="D:\android\workspace\QiMing_cankao1\BroadcastBestPractice\build\intermediates\pre-dexed\debug\instant-run_0bfe7ef5926797240901ddbd96ff525acce06c6f.jar" />
+    </item>
+    <item
+        jar="D:\android\BroadcastBestPractice\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="bd6479f5dd592790607e0504e66e0f31c2b4d308">
+        <dex dex="D:\android\BroadcastBestPractice\build\intermediates\pre-dexed\debug\android-support-v4_3bb6a3fc2ac43c16d71494778aa42e63567c3732.jar" />
+    </item>
+    <item
+        jar="D:\android\workspace\QiMing_cankao1\BroadcastBestPractice\build\intermediates\incremental-classes\debug\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="77c0e7eb3154ee5b6d1cd22157b82f22e2b19c69">
+        <dex dex="D:\android\workspace\QiMing_cankao1\BroadcastBestPractice\build\intermediates\pre-dexed\debug\classes_bf089d00df67ebb3d690926f846aea11305f00df.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\android\\BroadcastBestPractice\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\android\\BroadcastBestPractice\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\android\\workspace\\QiMing_cankao1\\BroadcastBestPractice\\build\\intermediates\\res\\merged\\debug\\layout\\login.xml",
+        "source": "D:\\android\\workspace\\QiMing_cankao1\\BroadcastBestPractice\\res\\layout\\login.xml"
+    },
+    {
+        "merged": "D:\\android\\workspace\\QiMing_cankao1\\BroadcastBestPractice\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\android\\workspace\\QiMing_cankao1\\BroadcastBestPractice\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\android\\BroadcastBestPractice\\build\\intermediates\\res\\merged\\debug\\layout\\login.xml",
+        "source": "D:\\android\\BroadcastBestPractice\\res\\layout\\login.xml"
+    }
+]

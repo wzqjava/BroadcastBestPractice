@@ -1,7 +1,9 @@
-package com.example.broadcastbestpractice;
+package com.example.broadcastbestpractice.activity;
 
 import android.app.Activity;
 import android.os.Bundle;
+
+import com.example.broadcastbestpractice.ActivityCollector;
 
 public class BaseActivity extends Activity {
 
